@@ -1,3 +1,9 @@
 {
-  "devices": []
+  "devices": [
+    {
+      "name": "dyyz",
+      "android_id": "b",
+      "expire": 1777207251947
+    }
+  ]
 }
