@@ -1,25 +1,11 @@
 {
   "devices": [
     {
-      "key": "123456789",
-      "device": "",
+      "device": "e11328c9018fb4a2",
+      "model": "X6873",
       "start_time": 0,
       "duration": 86400000,
       "status": "inactive"
-    },
-    {
-      "key": "863846836",
-      "device": "",
-      "start_time": 0,
-      "duration": 86400000,
-      "status": "active"
-    },
-    {
-      "key": "6284638478",
-      "device": "",
-      "start_time": 0,
-      "duration": 86400000,
-      "status": "expired"
     }
   ]
 }
