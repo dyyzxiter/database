@@ -1,9 +1,3 @@
 {
-  "devices": [
-    {
-      "name": "ge",
-      "android_id": "hd",
-      "expire": "2026-04-26"
-    }
-  ]
+  "devices": []
 }
