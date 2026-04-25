@@ -1,3 +1,9 @@
 {
-  "devices": []
+  "devices": [
+    {
+      "name": "23124RA7EO",
+      "android_id": "63d3c531b75cd6c6",
+      "expire": 1863434671439
+    }
+  ]
 }
