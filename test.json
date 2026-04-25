@@ -1,3 +1,9 @@
 {
-  "devices": []
+  "devices": [
+    {
+      "name": "Infinix X6873",
+      "android_id": "cddaea67937e083c",
+      "expire": 1777120110094
+    }
+  ]
 }
