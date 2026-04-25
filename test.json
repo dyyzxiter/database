@@ -1,3 +1,9 @@
 {
-  "devices": []
+  "devices": [
+    {
+      "name": "uwd",
+      "android_id": "js",
+      "expire": "2026-04-30"
+    }
+  ]
 }
