@@ -1,9 +1,3 @@
 {
-  "devices": [
-    {
-      "name": "ssh",
-      "android_id": "bd",
-      "expire": 1777120272861
-    }
-  ]
+  "devices": []
 }
