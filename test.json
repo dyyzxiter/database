@@ -1,3 +1,9 @@
 {
-  "devices": []
+  "devices": [
+    {
+      "name": "bd",
+      "android_id": "bd",
+      "expire": "2026-04-26"
+    }
+  ]
 }
