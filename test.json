@@ -1,10 +1,4 @@
 {
   "maintenance": false,
-  "devices": [
-    {
-      "name": "V2038",
-      "android_id": "7ce24e67da5d9d4c",
-      "expire": 1863523164211
-    }
-  ]
+  "devices": []
 }
