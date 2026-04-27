@@ -2,11 +2,6 @@
   "maintenance": false,
   "devices": [
     {
-      "name": "V2058",
-      "android_id": "5d4f38c40ccab48b",
-      "expire": 1863523034661
-    },
-    {
       "name": "V2038",
       "android_id": "7ce24e67da5d9d4c",
       "expire": 1863523164211
