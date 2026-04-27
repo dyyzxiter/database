@@ -2,11 +2,6 @@
   "maintenance": false,
   "devices": [
     {
-      "name": "Infinix X6873",
-      "android_id": "e11328c9018fb4a2",
-      "expire": 1863510797068
-    },
-    {
       "name": "V2058",
       "android_id": "5d4f38c40ccab48b",
       "expire": 1863523034661
