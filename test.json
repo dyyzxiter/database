@@ -1,10 +1,4 @@
 {
   "maintenance": false,
-  "devices": [
-    {
-      "name": "Rakha",
-      "android_id": "e11328c9018fb4a2",
-      "expire": 1863864591456
-    }
-  ]
+  "devices": []
 }
